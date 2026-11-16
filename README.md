@@ -1,2 +1,2 @@
-# Stock-Market-Dashboard
+# Trading Mono Repo
 Highlights the stock market indices and the leading market sectors in the US market.
